@@ -1,4 +1,7 @@
 # WARNING
+
+UPD: This fork is compatible with AMI 2015.03
+
 AWS has recently made changes to their EB ENV variables that are catastrophic for much of the rails deployment approaches for EB. This includes whenever-elasticbeanstalk. We are investigating how we can address these issues. Please see [Issue 18](https://github.com/dignoe/whenever-elasticbeanstalk/issues/18) for further details. Will update when a resolution is available.
 
 # Whenever::Elasticbeanstalk
